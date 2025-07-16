@@ -66,4 +66,8 @@ The target:
 - [ ] gaining experience using uv
 - [ ] ability to use python, uv and jupyter
 
-Useful links: https://karpathy.ai/
+Useful links:
+
+- https://karpathy.ai/
+- https://www.youtube.com/@AndrejKarpathy/videos
+- https://github.com/karpathy/micrograd
