@@ -1,0 +1,23 @@
+# Cursor Rules for js2pi-part-1 Project
+
+## Language Requirements
+
+- **ALL conversations and communications must be conducted in English only**
+
+## Project Context
+
+This is a deep dive learning project following Andrej Karpathy's ["Neural Networks: Zero to Hero"](https://karpathy.ai/zero-to-hero.html) course, building neural networks from scratch including micrograd, makemore, MLPs, WaveNet, and GPT.
+
+## Code Style Guidelines
+
+- Follow Python PEP 8 style guidelines
+- Use clear, descriptive variable and function names
+- Write comprehensive comments for complex neural network concepts
+- Use meaningful docstrings for functions and classes
+
+## Project Goals
+
+- Gain experience in neural networks and understand how they work
+- Gain experience using uv package manager
+- Develop ability to use Python, uv and Jupyter notebooks
+- Build understanding from backpropagation to modern transformers
