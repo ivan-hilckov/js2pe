@@ -16,6 +16,8 @@ The github repo for the course: https://github.com/karpathy/nn-zero-to-hero
 
 > This is the most step-by-step spelled-out explanation of backpropagation and training of neural networks. It only assumes basic knowledge of Python and a vague recollection of calculus from high school.
 
+Useful links: https://github.com/karpathy/micrograd
+
 ---
 
 [ ] [The spelled-out intro to language modeling: building makemore](https://www.youtube.com/watch?v=PaCmpygFfXo&ab_channel=AndrejKarpathy) 1h 57m
